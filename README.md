@@ -1,2 +1,2 @@
-# Skeleton project for Swagger
-"# gdespa_swagger" 
+# GDESPA_SWAGGER  
+ Swagger documentation for the GDES PANAMA project
